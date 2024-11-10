@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Site desenvolvido em Python Flask para fins de estudo
+Estudo de Python Flask.
 
-- 🔭 VScode, Git/Gihub, Anaconda Python, Flask, HTML/CSS/JavaScript.
+- 🔭 VScode, Git/Gihub, Anaconda Python, Flask, HTML/CSS/JavaScript/Bootstrap.
 
 - 📫 tiagofbonomo@gmail.com
 
