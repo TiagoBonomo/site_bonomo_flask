@@ -1,8 +1,8 @@
 ### Olá 👋
 
-Teste Realizado dia 08/11/2024
+Site desnvolvido em Python Flask para fins de estudo
 
-- 🔭 Foi utilizado Google Colab, VScode e Chatgpt.
+- 🔭 VScode, Git/Gihub, Anaconda Python, Flask, HTML/CSS/JavaScript.
 
 - 📫 tiagofbonomo@gmail.com
 
