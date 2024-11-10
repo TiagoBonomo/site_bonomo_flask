@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Site desnvolvido em Python Flask para fins de estudo
+Site desenvolvido em Python Flask para fins de estudo
 
 - 🔭 VScode, Git/Gihub, Anaconda Python, Flask, HTML/CSS/JavaScript.
 
